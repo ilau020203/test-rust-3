@@ -1,0 +1,6 @@
+rpc_url: "http://127.0.0.1:8899"
+grpc_url: "https://grpc.ny.shyft.to"
+grpc_auth_token: "b2b972c6-fff2-4b5c-aac9-375c6984b80e"
+sender_keypair_path: "~/.config/solana/test-wallet-2.json"
+recipient_address: "F6HQgoJKFtVHy4MMCjJo8JXAgpKpd1vx6urJiBikxX22"
+amount_sol: 0.001 
